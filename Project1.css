@@ -1,1 +1,37 @@
-h1
+.tagline {
+    color: blueviolet;
+    font-style: italic;
+}
+
+.right-align {
+    float: right;
+}
+
+.topic {
+    font-size: 25px;
+    font-style: bold;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    text-align: left;
+}
+
+body {
+    background-color:#e6f3ff;
+    padding: 12%;
+    position: relative;
+}
+footer{
+    background-color: orange;
+    color: black;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    padding: 3px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
